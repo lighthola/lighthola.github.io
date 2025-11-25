@@ -2,13 +2,15 @@
     "webcredentials": {
         "apps": [
             "B28A4AK28S.com.bevis.EasyPassword",
-            "B28A4AK28S.com.swp.FeatureTest"
+            "B28A4AK28S.com.swp.FeatureTest",
+            "6R6MX9B9R4.com.aaa.EasyPassword"
         ]
     },
     "applinks": {
         "apps": [
             "B28A4AK28S.com.bevis.EasyPassword",
-            "B28A4AK28S.com.swp.FeatureTest"
+            "B28A4AK28S.com.swp.FeatureTest",
+            "6R6MX9B9R4.com.aaa.EasyPassword"
         ],
         "details": [
             {
@@ -19,6 +21,12 @@
             },
             {
                 "appID": "B28A4AK28S.com.swp.FeatureTest",
+                "paths": [
+                    "*"
+                ]
+            },
+            {
+                "appID": "6R6MX9B9R4.com.aaa.EasyPassword",
                 "paths": [
                     "*"
                 ]
