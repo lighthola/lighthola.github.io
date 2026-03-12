@@ -1,8 +1,15 @@
-[{
-  "relation": ["delegate_permission/common.get_login_creds"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "com.mygame.testfido",
-    "sha256_cert_fingerprints": ["18:9E:11:72:22:96:FA:DF:0C:01:F4:67:A0:37:9C:58:74:73:A4:D4:AD:80:9D:45:93:CD:E6:7F:3C:84:25:36"]
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls",
+      "delegate_permission/common.get_login_creds"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.mygame.testfido",
+      "sha256_cert_fingerprints": [
+        "18:9E:11:72:22:96:FA:DF:0C:01:F4:67:A0:37:9C:58:74:73:A4:D4:AD:80:9D:45:93:CD:E6:7F:3C:84:25:36"
+      ]
+    }
   }
-}]
+]
